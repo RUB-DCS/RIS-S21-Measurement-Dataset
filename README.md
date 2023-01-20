@@ -1,7 +1,5 @@
 # Data release: A comprehensive dataset of S21 channel measurements with a reconfigurable intelligent surface prototype in the 5GHz band
 
-S21 Measurements of our 16x16 elements reconfigurable intelligent surface (RIS) prototype
-
 ## Further Information
 
 [Setup and Configuration](documentation/SetupAndConfiguration.md)
