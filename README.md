@@ -1,4 +1,4 @@
-# RISprototypeMeasurements
+# Data release: A comprehensive dataset of S21 channel measurements with a reconfigurable intelligent surface prototype in the 5GHz band
 
 S21 Measurements of our 16x16 elements reconfigurable intelligent surface (RIS) prototype
 
@@ -10,7 +10,7 @@ S21 Measurements of our 16x16 elements reconfigurable intelligent surface (RIS) 
 
 [Dataset file formatting](documentation/ResultsFileFormat.md)
 
-[RIS switching state optimization](documentation/RIS switching state optimization.md)
+[RIS switching state optimization](documentation/RISswitchingStateOptimization.md)
 
 ## Download the dataset
 
