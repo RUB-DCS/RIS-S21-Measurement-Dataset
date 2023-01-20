@@ -1,6 +1,6 @@
 # Dataset file format
 
-The S21 measurements were recorded in Matlab <sup>&reg;</sup> and saved as one .mat-file each, containing all S21 measurements and RIS patterns(switching states) for them.
+The S21 measurements were recorded in Matlab<sup>&reg;</sup> and saved as one .mat-file each, containing all S21 measurements and RIS patterns(switching states) for them.
 
 The dataset is divided into three subfolders 'nonSpecular', 'specular' and 'rotatingStage'. Each .mat-file within these folders has a unique ID (two-digit number) as file name. The number indicates the corresponding geometry and can also be found in tabular form here: [Geometries](Geometries.md)
 
