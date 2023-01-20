@@ -3,7 +3,7 @@
 ## Location
 
 Measurements were performed in an anechoic chamber to prevent multipath propagation.
-The chamber used is a fully-anechoic chamber of dimension \SI{7}{\meter} x \SI{13.5}{\meter} x \SI{6}{\meter} from manufacturer Frankonia. The chamber is located at the [Faculty of Electrical Engineering and Information Technology of the Ruhr University Bochum, Germany](https://etit.ruhr-uni-bochum.de/est/forschung/ausstattung/). It is equipped with a rotating stage, that  has a diameter of \SI{2}{\meter} for carrying the device under test. The rotating stage is recessed into the floor and is controlled via MatLab.
+The chamber used is a fully-anechoic chamber of dimension 7 x 13.5 x 6 meter from manufacturer Frankonia. The chamber is located at the [Faculty of Electrical Engineering and Information Technology of the Ruhr University Bochum, Germany](https://etit.ruhr-uni-bochum.de/est/forschung/ausstattung/). It is equipped with a rotating stage, that  has a diameter of \SI{2}{\meter} for carrying the device under test. The rotating stage is recessed into the floor and is controlled via MatLab.
 
 ## Geometries
 
