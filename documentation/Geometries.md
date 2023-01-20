@@ -21,7 +21,7 @@
 | 16        | 0                     | 45                    | 5                        | 3                        |
 | 17        | 0                     | 45                    | 7                        | 3                        |
 
-## Specular Reflection \[45°; 45°\]
+## Specular Reflection \[-45°; 45°\]
 
 | Unique ID | Angle antenna 1 \[°\] | Angle antenna 2 \[°\] | Distance antenna 1 \[m\] | Distance antenna 2 \[m\] |
 | --------- |:---------------------:|:---------------------:|:------------------------:|:------------------------:|
