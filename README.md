@@ -24,18 +24,19 @@ Add the dataset to the root folder of your local repository. The folder should b
 Any use of the dataset which results in an academic publication or
 other publication must include a citation of our paper:
 
-S. Tewes, M. Heinrichs, P. Staat, R. Kronberger and A. Sezgin, "Full-Duplex meets Reconfigurable Surfaces: RIS-assisted SIC for Full-Duplex Radios," ICC 2022 - IEEE International Conference on Communications, 2022, pp. 1106-1111, doi: 10.1109/ICC45855.2022.9839223.
+S. Tewes, M. Heinrichs, K. Weinberger, R. Kronberger and A. Sezgin, "A comprehensive dataset of RIS-based channel
+measurements in the 5GHz band," Accepted for publication in 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), 2023.
 
 ```
 @INPROCEEDINGS{9839223, 
-author={Tewes, Simon and Heinrichs, Markus and Staat, Paul and Kronberger, Rainer and Sezgin, Aydin},
-booktitle={ICC 2022 - IEEE International Conference on Communications},
-title={Full-Duplex meets Reconfigurable Surfaces: RIS-assisted SIC for Full-Duplex Radios},
-year={2022},
+author={Tewes, Simon and Heinrichs, Markus and Weinberger, Kevin and Kronberger, Rainer and Sezgin, Aydin},
+booktitle={Accepted for publication in 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)},
+title={A comprehensive dataset of RIS-based channel measurements in the 5GHz band},
+year={2023},
 volume={},  
 number={},
-pages={1106-1111},
-doi={10.1109/ICC45855.2022.9839223}}
+pages={},
+doi={}}
 ```
 
 ### Provided by
