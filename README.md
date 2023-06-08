@@ -12,7 +12,7 @@
 
 ## Download the dataset
 
-Due to the file size of the measurement data (1.2GB) it is provided over IEEE DataPort. To use the files provided in this Git, please download the dataset from here: [IEEE DataPort](https://ruhr-uni-bochum.sciebo.de/s/0xOX0MEwm8HhcZq) 
+Due to the file size of the measurement data (1.2GB) it is provided over IEEE DataPort. To use the files provided in this Git, please download the dataset from here: [IEEE DataPort](http://ieee-dataport.org/10610)
 Add the dataset to the root folder of your local repository. The folder should be named "dataset" such that all the MatLab-Scripts provided within this repository will be able to load the files.
 
 # Contact
